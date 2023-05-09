@@ -1,6 +1,7 @@
 # these are imports it imports external library like colorama or internal like os sys and time
 # to install colorama youll need to open a shell and write the following command 
 # by the way colorama is used to produce color in a python shell like color commands in cmd
+# pip install colorama
 import os 
 import colorama
 import sys
